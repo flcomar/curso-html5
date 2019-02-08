@@ -8,6 +8,4 @@ This repository is oriented only to my personal projects while I learn HTML5. It
 others in their own HTML learning.
 
 
-TEST
-
 
